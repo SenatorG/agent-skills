@@ -6,7 +6,7 @@ Verify that direct Hemingway-style prose remains collaborative and respectful in
 
 ## Test prompt
 
-> Rewrite this in the Hemingway SalesChat style at H2 / I0. This is going directly to a customer. Keep it concise and professional.
+> Rewrite this in the Hemingway style at H2 / I0. This is going directly to a customer. Keep it concise and professional.
 >
 > "In order for us to continue troubleshooting the intermittent deployment failures, it would be very helpful if your team could provide the orchestration logs from the most recent failed deployment as well as the timestamp associated with the failure. Once we have received those materials, we will be in a better position to isolate the issue and determine the appropriate next step."
 

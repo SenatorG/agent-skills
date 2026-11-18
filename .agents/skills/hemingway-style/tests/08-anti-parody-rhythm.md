@@ -6,7 +6,7 @@ Verify that a strong Hemingway request produces disciplined syntax and rhythm wi
 
 ## Test prompt
 
-> Give this a strong Hemingway-inspired treatment, but keep it appropriate for an internal Dell strategy memo. Do not imitate Hemingway's wording.
+> Give this a strong Hemingway-inspired treatment, but keep it appropriate for an internal strategy memo. Do not imitate Hemingway's wording.
 >
 > "The team had spent several quarters discussing whether the AI platform should be treated primarily as a collection of infrastructure components or as an operating model. The distinction became more important as the number of use cases increased because each new workload introduced additional requirements for data access, security, deployment, observability, and lifecycle management. The conclusion of the workshop was that the platform cannot be evaluated only in terms of servers, accelerators, storage, and networking. The operating model also has to be considered because it determines how those resources can be consumed, governed, and changed over time."
 

@@ -1,4 +1,4 @@
-I want you to act as an expert reviewer, editor, and synthesizer of SalesChat skills.
+I want you to act as an expert reviewer, editor, and synthesizer of AI chat skills.
 
 I will provide 3 skill files as separate attachments, not pasted into this prompt. The files may be provided as `.zip`, `.skill`, or `.md` files. Each skill will be labeled by its maker (for example: Anthropic, OpenAI, Grok, etc.), and you should use those labels throughout your analysis.
 

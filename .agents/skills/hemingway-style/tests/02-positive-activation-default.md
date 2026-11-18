@@ -6,7 +6,7 @@ Verify that an explicit Hemingway request activates the skill and that business/
 
 ## Test prompt
 
-> Rewrite this in the Hemingway SalesChat style. I want it customer-facing and executive-level.
+> Rewrite this in the Hemingway style. I want it customer-facing and executive-level.
 >
 > "At this point in time, the architecture team believes that the most important issue for the customer is not necessarily whether additional infrastructure can be purchased, but whether the current operating model will allow the organization to deploy new AI workloads with the speed, consistency, and governance that will be required as adoption increases."
 

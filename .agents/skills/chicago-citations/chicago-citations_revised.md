@@ -18,7 +18,7 @@ Do not impose Chicago merely because the work is sourced, contains footnotes, us
 Resolve conflicts in this order:
 
 1. Explicit user instruction.
-2. Governing institutional, publication, customer, course, Dell, or artifact requirement.
+2. Governing institutional, publication, customer, course, or artifact requirement.
 3. A consistent citation system already present in the artifact.
 4. The defaults below.
 

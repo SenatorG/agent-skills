@@ -2,7 +2,7 @@
 
 ## Objective
 
-Verify that ordinary requests for concise, direct, short, or less-corporate prose do **not** activate the Hemingway SalesChat skill unless the user explicitly invokes Hemingway, the iceberg principle/style, or the skill itself.
+Verify that ordinary requests for concise, direct, short, or less-corporate prose do **not** activate the Hemingway-style skill unless the user explicitly invokes Hemingway, the iceberg principle/style, or the skill itself.
 
 ## Test prompt
 
@@ -19,7 +19,7 @@ The model should perform a normal concise rewrite. It may use strong verbs and s
 Score 1 point for each:
 
 - [ ] Does not mention Hemingway, iceberg, H1/H2/H3, or I0/I1/I2.
-- [ ] Does not claim to be applying the Hemingway SalesChat skill.
+- [ ] Does not claim to be applying the Hemingway-style skill.
 - [ ] Preserves the core meaning: unresolved dependencies may affect the timeline and an additional review is recommended before implementation.
 - [ ] Preserves uncertainty; does not turn "may potentially affect" into a definite schedule impact.
 - [ ] Produces concise professional prose without theatrical or literary styling.

@@ -1,9 +1,9 @@
 ---
 name: hemingway-style
-description: Opt-in Hemingway-inspired prose for Dell SalesChat. Activate only for an explicit Hemingway, iceberg, or direct reference to this skill. Use concrete nouns, active verbs, compression, deliberate rhythm, and controlled implication while preserving facts, citations, Dell terminology, accessibility, and required actions.
+description: Opt-in Hemingway-inspired prose for AI chat. Activate only for an explicit Hemingway, iceberg, or direct reference to this skill. Use concrete nouns, active verbs, compression, deliberate rhythm, and controlled implication while preserving facts, citations, product terminology, accessibility, and required actions.
 ---
 
-# Hemingway SalesChat Style
+# Hemingway-Style Prose
 
 ## 1. Purpose and activation
 
@@ -19,13 +19,13 @@ Activate only when the user explicitly requests:
 
 * Hemingway-like or Hemingway-inspired writing;
 * the iceberg principle or iceberg style; or
-* this Hemingway SalesChat skill by name or clear reference.
+* this Hemingway-style skill by name or clear reference.
 
 Do not activate merely for "make it shorter," "make it concise," "tighten this," "remove jargon," "use short sentences," "make it less corporate," "sound direct," "make it literary," or "cut the fat."
 
-If the request is ambiguous, use normal SalesChat prose.
+If the request is ambiguous, use normal prose.
 
-Apply requirements in this order: factual accuracy and source fidelity; safety, legal, compliance, and contractual requirements; required caveats, citations, terminology, and customer actions; user-requested format, audience, meaning, and length; accessibility and approved Dell terminology; Hemingway-inspired surface style; optional implication or subtext.
+Apply requirements in this order: factual accuracy and source fidelity; safety, legal, compliance, and contractual requirements; required caveats, citations, terminology, and customer actions; user-requested format, audience, meaning, and length; accessibility and approved product terminology; Hemingway-inspired surface style; optional implication or subtext.
 
 Style never overrides a higher-priority requirement.
 
@@ -37,9 +37,9 @@ Every transformation must preserve the substance needed for correct interpretati
 * Keep material limitations, assumptions, warnings, support conditions, and required actions explicit.
 * Preserve qualifiers such as "may," "typically," "subject to," and "depends on." Never turn uncertainty into certainty.
 * Never invent customer details, performance figures, benchmarks, compatibility, workload behavior, pricing, availability, lifecycle data, causal links, or physical imagery to make prose more concrete.
-* Treat a detail as verified only when it appears in the supplied source or in an authoritative source already available to SalesChat. If it is not verified, omit it, preserve the uncertainty, or identify it as an open question.
+* Treat a detail as verified only when it appears in the supplied source or in an authoritative source already available to the assistant. If it is not verified, omit it, preserve the uncertainty, or identify it as an open question.
 * Keep each citation attached to the claim it supports. If sentences move, move the citation with the claim.
-* Use approved Dell product names and technical terminology exactly as supplied by a reliable source.
+* Use approved product names and technical terminology exactly as supplied by a reliable source.
 * If sources conflict, preserve the conflict or uncertainty and identify what requires confirmation. Do not resolve it through stylistic judgment.
 * Keep customer-facing language accessible to international readers. Avoid slang, cultural assumptions, obscure idiom, unexplained literary references, discriminatory language, and archaic posturing.
 

@@ -6,9 +6,9 @@ Verify that the skill does not convert scan-oriented technical content into lite
 
 ## Test prompt
 
-> Apply the Hemingway SalesChat style at H2 / I0. Tighten this for a customer architecture review. Keep the bullet format.
+> Apply the Hemingway style at H2 / I0. Tighten this for a customer architecture review. Keep the bullet format.
 >
-> - **Compute:** 8 Dell PowerEdge R760xa servers are proposed. Final quantity is subject to sizing validation.
+> - **Compute:** 8 Acme R760xa servers are proposed. Final quantity is subject to sizing validation.
 > - **Accelerators:** Each proposed server includes 4 NVIDIA L40S GPUs. GPU selection may change after application testing.
 > - **Network:** The design assumes 100 GbE connectivity. Switch port availability has not yet been confirmed.
 > - **Storage:** Capacity is estimated at 240 TB usable. The estimate excludes backup retention.
@@ -22,7 +22,7 @@ The output should remain a bullet list with the same five categories. It may tig
 
 - [ ] Keeps bullet format.
 - [ ] Keeps all five categories: Compute, Accelerators, Network, Storage, Next action.
-- [ ] Preserves `8 Dell PowerEdge R760xa`.
+- [ ] Preserves `8 Acme R760xa`.
 - [ ] Preserves `4 NVIDIA L40S GPUs` per proposed server.
 - [ ] Preserves `100 GbE`.
 - [ ] Preserves `240 TB usable`.

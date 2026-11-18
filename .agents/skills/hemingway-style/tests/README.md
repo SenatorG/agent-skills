@@ -1,4 +1,4 @@
-# Hemingway SalesChat Style — Regression Suite
+# Hemingway-Style Prose — Regression Suite
 
 Baseline skill: `hemingway-style-revised.md`
 
@@ -10,7 +10,7 @@ This suite tests behavior, not exact wording. A style skill may produce differen
 
 For each test:
 
-1. Load the Hemingway SalesChat skill under test.
+1. Load the Hemingway-style skill under test.
 2. Submit the **Test prompt** exactly as written.
 3. Score the output against the **Pass criteria**.
 4. Treat any **Critical failure** as an automatic failure regardless of numeric score.
